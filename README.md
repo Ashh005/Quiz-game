@@ -18,3 +18,12 @@ A simple **KBC-style quiz game** built with Python and Tkinter. Players answer m
 1. **Clone the repository** or download the `.py` file:
    ```bash
    https://github.com/Ashh005/Quiz-game.git
+2. Run the game:
+   python Quiz game.py
+
+3.Enter your name and start answering questions!
+
+🛠 Requirements
+Python 3.x
+
+Tkinter (included with most Python installations)
