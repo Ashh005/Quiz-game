@@ -24,6 +24,32 @@ A simple **KBC-style quiz game** built with Python and Tkinter. Players answer m
 3.Enter your name and start answering questions!
 
 ## 🛠 Requirements
-Python 3.x
+-Pthon 3.x
+-Tkinter (included with most Python installations)
 
-Tkinter (included with most Python installations)
+## 📁 File Structure
+Quiz-game/
+├── Quiz_gui.py        # Main game code
+├── scores.txt        # File to save scores (auto-created if not present)
+└── README.md         # Project documentation
+## ✅ How It Works
+Each correct answer increases your prize.
+
+If you answer incorrectly, the game ends and your score is saved.
+
+At the end, your name and final winnings are saved in scores.txt.
+
+## 💡 Future Ideas
+Add lifelines (50:50, Skip, Ask Audience)
+
+Add timer for each question
+
+Add high score board
+
+Add sound effects and animations
+
+## 👨‍💻 Author
+Ayush Kumar sharma – @Ashh005
+
+
+
