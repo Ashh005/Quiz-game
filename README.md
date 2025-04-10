@@ -30,7 +30,7 @@ A simple **KBC-style quiz game** built with Python and Tkinter. Players answer m
 ## 📁 File Structure
 Quiz-game/
 
-├── Quiz_gui.py        # Main game code
+├── Quiz game.py        # Main game code
 
 ├── scores.txt        # File to save scores
 
