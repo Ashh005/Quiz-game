@@ -32,7 +32,7 @@ Quiz-game/
 
 ├── Quiz_gui.py        # Main game code
 
-├── scores.txt        # File to save scores (auto-created if not present)
+├── scores.txt        # File to save scores
 
 └── README.md         # Project documentation
 ## ✅ How It Works
