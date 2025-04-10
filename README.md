@@ -23,7 +23,7 @@ A simple **KBC-style quiz game** built with Python and Tkinter. Players answer m
 
 3.Enter your name and start answering questions!
 
-##🛠 Requirements
+## 🛠 Requirements
 Python 3.x
 
 Tkinter (included with most Python installations)
