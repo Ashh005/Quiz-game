@@ -17,5 +17,4 @@ A simple **KBC-style quiz game** built with Python and Tkinter. Players answer m
 
 1. **Clone the repository** or download the `.py` file:
    ```bash
-   git clone https://github.com/yourusername/kbc-quiz-game.git
-   cd kbc-quiz-game
+   (https://github.com/Ashh005/Quiz-game.git)
